@@ -13,7 +13,7 @@ __________
  - applying pca minimum 0.95 to the best modle score __0.928__
  
 ### 2- Multilayer perceptron MLP score __0.929__
- - Model parameters _27*729*27*10*2_ 
+ - Model parameters _10,628,820_ 
  - Model hyper-parameters 
  `MLPClassifier(random_state=1, max_iter=1000, alpha=1e-5,
                     hidden_layer_sizes=(729,27,10),activation="tanh",
