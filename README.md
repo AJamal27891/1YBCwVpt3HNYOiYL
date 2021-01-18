@@ -18,3 +18,7 @@ __________
  `MLPClassifier(random_state=1, max_iter=1000, alpha=1e-5,
                     hidden_layer_sizes=(729,27,10),activation="tanh",
                     verbose=True,shuffle=True,early_stopping=True,,validation_fraction=.2)`
+                    
+____________________
+## Feature importance
+![alt text](https://github.com/AJamal27891/1YBCwVpt3HNYOiYL/blob/main/Shapeimportance.PNG?raw=true)
